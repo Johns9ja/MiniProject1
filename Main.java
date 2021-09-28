@@ -58,6 +58,7 @@ class Main {
 
     if(userGuess == randNum){ //if User Guess equals the Random Number generated
     System.out.println("Great, you win! It took you " + numTries + " tries."); //Print that user wins and the number of tries 
+    
   }
   }
 }
